@@ -1,0 +1,14 @@
+# Heavy Geospatial Data Payloads
+data_payload/
+*.tif
+*.tiff
+*.json
+*.csv
+*.gpkg
+*.shp
+
+# Python Environments
+venv/
+__pycache__/
+*.pyc
+.env
